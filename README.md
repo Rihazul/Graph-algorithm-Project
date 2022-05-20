@@ -1,0 +1,2 @@
+# Graph-algorithm-Project
+The purpose of this project is to make a C++ graph algorithm application based on real life situations. The program we created is a university's course sequence program that shows all the path when the user wants to build its schedule. The program involves several techniques of C++ OOP programming such as composition, Inheritance, Polymorphism, Exeption handling and pointers.
